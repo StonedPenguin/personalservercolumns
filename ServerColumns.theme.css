@@ -15,10 +15,10 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css);
 
 :root {
-	--columns:			3;							/* default:	3					(amount of servercolumns)																		*/
+	--columns:			2;							/* default:	3					(amount of servercolumns)																		*/
 	
-	--guildsize:		45;							/* default:	50					(serversize in pixel)																			*/
-	--guildgap:			4;							/* default:	3					(top/bottom gap between servers in pixel)														*/
+	--guildsize:		38;							/* default:	50					(serversize in pixel)																			*/
+	--guildgap:			2;							/* default:	3					(top/bottom gap between servers in pixel)														*/
 	
 	--aligndms:			1;							/* default:	0					(should DMs be aligned in columns: 0 = no, 1 = yes)												*/
 }
